@@ -14,7 +14,8 @@
         <Button x:Name="btnThat" Content="Another" HorizontalAlignment="Left" Margin="263,18,0,0" VerticalAlignment="Top" Width="75"/>
         <Button Content="And Another" HorizontalAlignment="Left" Margin="263,45,0,0" VerticalAlignment="Top" Width="75"/>
         <Button Content="Random" HorizontalAlignment="Left" Margin="168,45,0,0" VerticalAlignment="Top" Width="75"/>
-        <Button Content="again" HorizontalAlignment="Left" Margin="168,78,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="again" HorizontalAlignment="Left" Margin="168,72,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="No F ing it" HorizontalAlignment="Left" Margin="168,99,0,0" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </Window>
