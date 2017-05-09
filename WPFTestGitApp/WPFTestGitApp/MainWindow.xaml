@@ -10,6 +10,7 @@
         <Button Content="Hi Github" HorizontalAlignment="Left" Margin="58,18,0,0" VerticalAlignment="Top" Width="75"/>
         <Button x:Name="btnThis" Content="This Button" HorizontalAlignment="Left" Margin="58,45,0,0" VerticalAlignment="Top" Width="75"/>
         <Button x:Name="btnThere" Content="There Button" HorizontalAlignment="Left" Margin="58,72,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="add one" HorizontalAlignment="Left" Margin="168,18,0,0" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </Window>
